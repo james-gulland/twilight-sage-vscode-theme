@@ -1,0 +1,21 @@
+{
+  "name": "twilight-sage",
+  "displayName": "Twilight Sage",
+  "description": "Earthy neutrals, soft pastels, touches of warm and cool",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.102.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Twilight Sage",
+        "uiTheme": "vs-dark",
+        "path": "./themes/twilight-sage-color-theme.json"
+      }
+    ]
+  }
+}
