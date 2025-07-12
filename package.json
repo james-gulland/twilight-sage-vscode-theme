@@ -1,7 +1,13 @@
 {
-  "name": "twilight-sage",
+  "name": "twilight-sage-dark-theme",
   "displayName": "Twilight Sage",
   "description": "Earthy neutrals, soft pastels, touches of warm and cool",
+  "publisher": "JamesGulland",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/james-gulland/twilight-sage-vscode-theme"
+  },
+  "license": "MIT",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.102.0"
@@ -17,5 +23,6 @@
         "path": "./themes/twilight-sage-color-theme.json"
       }
     ]
-  }
+  },
+  "icon": "twilight-sage.png"
 }
