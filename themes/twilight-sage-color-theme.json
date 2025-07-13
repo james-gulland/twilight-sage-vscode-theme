@@ -144,7 +144,7 @@
       "tab.activeBackground": "#494E4180",
       "tab.activeForeground": "#f9e6d4",
       "tab.hoverForeground": "#f9e6d4",
-      "tab.border": "#00000000",
+      "tab.border": "#968E8830",
       "tab.inactiveBackground": "#1f1f1f",
       "tab.inactiveForeground": "#968E8880",
       "tab.unfocusedActiveForeground": "#968E88",
@@ -458,7 +458,7 @@
       {
         "scope": ["comment", "punctuation.definition.comment"],
         "settings": {
-          "foreground": "#88807aCC",
+          "foreground": "#88807a90",
           "fontStyle": "italic"
         }
       },
