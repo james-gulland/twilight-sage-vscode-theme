@@ -4,6 +4,7 @@
 --sky-blue: #91c1d8;
 --silver: #b5b5b5;
 --timberwolf: #d6d6d6;
+--battleship-grey: #88807a
 --platinum: #e1dee3;
 --sage-2: #9ca989;
 --sandy-brown: #f6ab79;

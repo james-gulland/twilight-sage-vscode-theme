@@ -641,6 +641,20 @@
         }
       },
       {
+        "name": "Meta Block - Function Call/Entity Name Function",
+        "scope": "meta.block meta.var.expr meta.function-call entity.name.function",
+        "settings": {
+          "foreground": "#9ca989",
+        }
+      },
+      {
+        "name": "Function Call/Entity Name Function",
+        "scope": "source meta.function-call entity.name.function",
+        "settings": {
+          "foreground": "#9ca989",
+        }
+      },
+      {
         "name": "Function/Class Name",
         "scope": "entity.name.function, meta.class entity.name.class, meta.class entity.name.type.class, meta.class meta.function-call variable.function, keyword.other.important, entity.other.attribute-name.id.css, entity.other.attribute-name.class.css",
         "settings": {
