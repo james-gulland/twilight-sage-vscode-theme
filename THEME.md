@@ -3,8 +3,9 @@
 --sage: #cdd1ac;
 --sky-blue: #91c1d8;
 --silver: #b5b5b5;
+--battleship-grey: #968E88
 --timberwolf: #d6d6d6;
---battleship-grey: #88807a
+--silver: #A9A29E
 --platinum: #e1dee3;
 --sage-2: #9ca989;
 --sandy-brown: #f6ab79;
@@ -12,3 +13,7 @@
 --comment: #88807a
 --secondary-background: #494E41
 --almond: #f9e6d4  
+--
+
+
+--battleship-grey: #88807a
