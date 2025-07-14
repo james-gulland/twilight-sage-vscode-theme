@@ -458,7 +458,7 @@
       {
         "scope": ["comment", "punctuation.definition.comment"],
         "settings": {
-          "foreground": "#88807a90",
+          "foreground": "#88807aCC",
           "fontStyle": "italic"
         }
       },
@@ -619,7 +619,7 @@
       {
         "scope": ["meta.brace", "punctuation", "keyword.operator.existential"],
         "settings": {
-          "foreground": "#968E88"
+          "foreground": "#968E88CC"
         }
       },
       {
@@ -781,7 +781,7 @@
       {
         "scope": ["entity.other.attribute-name"],
         "settings": {
-          "foreground": "#968E88",
+          "foreground": "#968E88CC",
         }
       },
       {
