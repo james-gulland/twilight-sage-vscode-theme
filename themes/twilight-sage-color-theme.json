@@ -289,7 +289,7 @@
       "list.hoverBackground": "#1f1f1f80",
       "list.hoverForeground": "#f9e6d4",
       "list.inactiveSelectionBackground": "#494E4180",
-      "list.inactiveSelectionForeground": "#E1DEE3",
+      "list.inactiveSelectionForeground": "#f9e6d4",
       "menu.background": "#1f1f1f",
       "menu.foreground": "#E1DEE3",
       "menu.selectionBackground": "#1f1f1f",
@@ -470,7 +470,7 @@
         }
       },
       {
-        "scope": ["variable.other.constant.object", "variable.other.readwrite.alias", "meta.import variable.other.readwrite"],
+        "scope": ["variable.other.constant.object", "variable.other.readwrite.alias"],
         "settings": {
           "foreground": "#91c1d8"
         }
@@ -510,6 +510,13 @@
         "scope": ["keyword.operator.new", "keyword.control.new"],
         "settings": {
           "foreground": "#f6ab79",
+        }
+      },
+      {
+        "scope": ["keyword.control.as"],
+        "settings": {
+          "foreground": "#f6ab79",
+          "fontStyle": "italic"
         }
       },
       {
@@ -720,7 +727,7 @@
         }
       },
       {
-        "scope": ["keyword.control.as", "entity.name.type"],
+        "scope": ["entity.name.type"],
         "settings": {
         "foreground": "#91c1d8",
         "fontStyle": "italic"
