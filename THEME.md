@@ -1,19 +1,18 @@
---eerie-black: #1f1f1f;
---african-violet: #b480b0;
---sage: #cdd1ac;
---sky-blue: #91c1d8;
---silver: #b5b5b5;
---battleship-grey: #968E88
---timberwolf: #d6d6d6;
---silver: #A9A29E
---platinum: #e1dee3;
---sage-2: #9ca989;
---sandy-brown: #f6ab79;
---rose-pompadour: #d97a88;
---comment: #88807a
+--eerie-black: #1f1f1f
 --secondary-background: #494E41
---almond: #f9e6d4  
---
+--dark-sage: #9ca989
+--sage: #cdd1ac
+--battleship-grey: #968E88
+--platinum: #e1dee3
+--almond: #f9e6d4
+--african-violet: #b480b0
+--sky-blue: #91c1d8
+--sandy-brown: #f6ab79
+--rose-pompadour: #d97a88
+--comment-only: #88807a
 
-
+older
 --battleship-grey: #88807a
+--timberwolf: #d6d6d6
+--silver: #b5b5b5;
+--silver: #A9A29E
