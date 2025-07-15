@@ -1,7 +1,7 @@
 {
   "name": "twilight-sage-dark-theme",
   "displayName": "Twilight Sage",
-  "description": "Earthy neutrals, soft pastels, touches of warm and cool",
+  "description": "A modern VSCode theme filled with earthy neutrals, soft pastels, and touches of warm and cool.",
   "publisher": "JamesGulland",
   "repository": {
     "type": "git",
@@ -14,6 +14,26 @@
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "dark theme",
+    "pastel theme",
+    "twilight sage",
+    "twilight sage theme",
+    "sage",
+    "sage theme",
+    "earthy theme",
+    "minimal theme",
+    "modern theme",
+    "vscode theme",
+    "visual studio code theme",
+    "vscode dark theme",
+    "visual studio code dark theme",
+    "vscode pastel theme",
+    "visual studio code pastel theme",
+    "vscode sage theme",
+    "James Gulland",
+    "JamesGulland"
   ],
   "contributes": {
     "themes": [
