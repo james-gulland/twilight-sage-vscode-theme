@@ -658,14 +658,14 @@
         "name": "Meta Block - Function Call/Entity Name Function",
         "scope": "meta.block meta.var.expr meta.function-call entity.name.function",
         "settings": {
-          "foreground": "#BCB6B6",
+          "foreground": "#9ca989",
         }
       },
       {
         "name": "Function Call/Entity Name Function",
         "scope": "source meta.function-call entity.name.function",
         "settings": {
-          "foreground": "#BCB6B6",
+          "foreground": "#9ca989",
         }
       },
       {
