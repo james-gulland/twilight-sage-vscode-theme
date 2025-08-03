@@ -592,7 +592,7 @@
         }
       },
       {
-        "scope": ["keyword.control.import", "storage.modifier"],
+        "scope": ["keyword.control.import", "storage.modifier", "keyword.control.at-rule"],
         "settings": {
           "foreground": "#9ca989",
         }
@@ -670,9 +670,21 @@
       },
       {
         "name": "Function/Class Name",
-        "scope": "entity.name.function, meta.class entity.name.class, meta.class entity.name.type.class, meta.class meta.function-call variable.function, keyword.other.important, entity.other.attribute-name.id.css, entity.other.attribute-name.class.css",
+        "scope": "entity.name.function, meta.class entity.name.class, meta.class entity.name.type.class, meta.class meta.function-call variable.function, keyword.other.important, entity.other.attribute-name.id.css, entity.other.attribute-name.class.css, variable.argument.css, meta.at-rule.media.header",
         "settings": {
           "foreground": "#E1DEE3",
+        }
+      },
+      {
+        "scope": ["entity.other.attribute-name.pseudo-class.css", "entity.other.attribute-name.pseudo-element.css"],
+        "settings": {
+          "foreground": "#f9e6d4"
+        }
+      },
+      {
+        "scope": ["meta.property-value.css", "support.function.transform.css"],
+        "settings": {
+          "foreground": "#9ca989"
         }
       },
       {
