@@ -8,7 +8,7 @@
     "url": "https://github.com/james-gulland/twilight-sage-vscode-theme"
   },
   "license": "MIT",
-  "version": "1.4.0",
+  "version": "2.0.0",
   "engines": {
     "vscode": "^1.102.0"
   },
