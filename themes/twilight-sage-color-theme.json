@@ -586,21 +586,28 @@
         }
       },
       {
-        "scope": ["storage.type.function.arrow"],
+        "scope": ["keyword.control.import", "storage.type.function.arrow"],
         "settings": {
           "foreground": "#b480b0"
         }
       },
       {
-        "scope": ["keyword.control.import", "storage.modifier", "keyword.control.at-rule"],
+        "scope": ["storage.modifier", "keyword.control.at-rule"],
         "settings": {
           "foreground": "#9ca989",
         }
       },
       {
-        "scope": ["keyword.control.module", "keyword.control.export"],
+        "scope": ["keyword.control.module"],
         "settings": {
           "foreground": "#9ca989",
+          "fontStyle": "italic"
+        }
+      },
+       {
+        "scope": ["keyword.control.export"],
+        "settings": {
+          "foreground": "#b480b0",
           "fontStyle": "italic"
         }
       },
