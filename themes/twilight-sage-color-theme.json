@@ -695,6 +695,12 @@
         }
       },
       {
+        "scope": ["support.type.property-name.css"],
+        "settings": {
+          "foreground": "#f6ab79"
+        }
+      },
+      {
         "scope": ["source.cpp meta.block variable.other"],
         "settings": {
           "foreground": "#91c1d8"
@@ -887,7 +893,7 @@
           "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
         ],
         "settings": {
-          "foreground": "#7390AA"
+          "foreground": "#f6ab79"
         }
       },
       {
@@ -919,7 +925,7 @@
           "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
         ],
         "settings": {
-          "foreground": "#7390AA"
+          "foreground": "#f6ab79"
         }
       },
       {
